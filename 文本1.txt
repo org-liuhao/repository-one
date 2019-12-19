@@ -1,0 +1,5 @@
+此文件
+1.新建组织orgLiuhaoProject
+2.新建仓库org_liuhao_project_test
+3.创建文本生成master分支
+4.测试用
